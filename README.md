@@ -1,4 +1,4 @@
-Greetings!😄 My Name is Jomekko Keinth Aguirre👋
+Greetings! My Name is Jomekko Keinth Aguirre👋😄
 ========================================================================================================================================
 
 🌍 On a Journey to become a full pledge Front-End Developer.
