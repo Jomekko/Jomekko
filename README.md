@@ -19,6 +19,5 @@ Greetings! My name is Jomekko Keinth Aguirre👋😄
   </a>
 </div>
 
-<hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jomekko&show_icons=true&locale=en&layout=compact" alt="Jomekko" /></p>
+
 
